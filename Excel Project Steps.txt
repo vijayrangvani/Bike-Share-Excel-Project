@@ -1,0 +1,12 @@
+1.  Remove duplicates
+2.  Find and replace for 
+  martial status as
+   m = Married
+   s = Single
+   Gender as 
+   F = Female
+   M = Male
+3. Bucketing for Age columns - New column
+4. Build Pivot Tables
+5. Create Charts 
+6. Create Dashboard
